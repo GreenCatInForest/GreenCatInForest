@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a JavaScript and React Web Developer with a deep interest in AI, VR, and CS. Based on marketing experience, digital marketing tools, and a social science background - but year to year computer science and maths became more and more my priority, so now I have 3 years in the Web Dev industry.   
+I'm a JavaScript and React Web Developer with a deep interest in AI, VR, and CS. Based on marketing experience, digital marketing tools, and a social science background - but year to year computer science and maths became more and more my priority, so now I'm in the Web Dev industry.   
 
 ## Current Project
 - 🔭 I’m currently working on BaroQue - Here Is Your Cocktail Bar - an interactive app for cocktail search.
