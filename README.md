@@ -4,19 +4,21 @@ I'm a JavaScript and React Web Developer with a deep interest in AI, VR, and CS.
 
 ## Current Project
 - 🔭 I’m currently working on BaroQue - Here Is Your Cocktail Bar - an interactive app for cocktail search.
+- Live Demo:
+[Vercel](https://baroque-here-is-your-cocktail-bar-delta.vercel.app/)
 
 ## Favourite Tech  
 - 📚 Technologies I'm proficient in: JavaScript, React, CSS, HTML, WordPress, Tailwind, Bootstrap, MUI.
 - 🛠️ Tools I use: VS Code, Git, Atom, Versel, Netlify.
-- 🎓 Studying: Node.js, TypeScript. 
+- 🎓 Studying: Node.js, MERN, TypeScript. 
 - 🎨 Design skills: Figma, Adobe PhotoShop, MidJourney. 
 - 📚 Books I recommend: 1) You Don't Know JS Yet - Kyle Simpson, 2) Calculus Made Easy - Silvanus Thompson, 3) Thinking Fast and Slow - David Kahneman.  
 
 ## Portfolio 
-
-![Portfolio printscreen](images/example.png)
+<img src="/yanaPortfolioReact.png" alt="Portfolio" width="600">
 - My recent projects are deployed here: 
-[Deploy on Versel]([(https://yk-react-portfolio.vercel.app/)](https://yk-react-portfolio.vercel.app/)]
+
+[Vercel](https://yk-react-portfolio.vercel.app/)
 
 ## Education
 
@@ -39,11 +41,10 @@ I'm a JavaScript and React Web Developer with a deep interest in AI, VR, and CS.
 
 ## Aspirations 
 📈 Goals or aspirations: 
-- middle JS React MERN Web Developer.
+### middle JS React MERN Web Developer
 
 ## 📫 How to reach me:
-[Linkedin]([([https://www.linkedin.com/in/yana-kozarenko-237ba5191](https://www.linkedin.com/in/yana-kozarenko-237ba5191))] 
-
+[Linkedin](https://www.linkedin.com/in/yana-kozarenko-237ba5191)   
 <!--
 **GreenCatInForest/GreenCatInForest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
