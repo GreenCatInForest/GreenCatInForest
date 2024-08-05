@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-Now I'm building Fullstack Django REST API using PostgreSQL. 
+Now I'm building Fullstack Django Python REST API using PostgreSQL. 
 I have a background in JavaScript and React Web Development, as well as a social science background.   
 
 ## Current Project
-- REST API for CL LTD.
+- REST API for CL LTD
+- TOM App for CL LTD
 
 ## Previous Project
 - 🔭 BaroQue - Here Is Your Cocktail Bar - an interactive app for cocktail search.
@@ -12,11 +13,11 @@ I have a background in JavaScript and React Web Development, as well as a social
 [Vercel](https://baroque-here-is-your-cocktail-bar-delta.vercel.app/)
 
 ## Favourite Tech  
-- Django, Python
-- JavaScript, React, CSS, HTML, WordPress, Tailwind, Bootstrap, MUI.
+- Django, Python, JavaScript, React, 
+- CSS, Tailwind, Bootstrap, MUI,
 - Figma, Adobe PhotoShop, MidJourney, DALL-E. 
 
-## Portfolio 
+<!--## Portfolio 
 <img src="/yanaPortfolioReact.png" alt="Portfolio" width="600">
 - My recent portfolio (I didn't update it for ages) is deployed here: 
 
