@@ -13,10 +13,12 @@ I have a background in JavaScript and React Web Development, as well as a social
 - Live Demo:
 [Vercel](https://baroque-here-is-your-cocktail-bar-delta.vercel.app/)
 
-## Favourite Tech  
-- Django, Python, JavaScript, React, 
+## Tech  
+- Django, Python, JavaScript, React, Node.JS,
+- Docker,
+- PostgreSql, 
 - CSS, Tailwind, Bootstrap, MUI,
-- Figma, Adobe PhotoShop, MidJourney, DALL-E. 
+- Figma, Adobe PhotoShop, MidJourney, DALL-E 
 
 <!--## Portfolio 
 <img src="/yanaPortfolioReact.png" alt="Portfolio" width="600">
