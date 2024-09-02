@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./language_usage_pie_chart.png" alt="Language Usage Pie Chart" width="500" />
+<img src="./language_usage_pie_chart.png" alt="Language Usage Pie Chart" width="450" />
