@@ -39,3 +39,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Language Usage Chart](./language_usage.png)
