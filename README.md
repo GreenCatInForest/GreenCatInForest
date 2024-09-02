@@ -42,3 +42,5 @@ Here are some ideas to get you started:
 
 
 ![Language Usage Chart](./language_usage.png)
+
+![Language Usage Pie Chart](./language_usage_pie_chart.png)
