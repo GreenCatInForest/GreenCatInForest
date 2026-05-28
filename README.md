@@ -1,6 +1,6 @@
-# Hi, I'm Yana 👋
+# Hi, I'm Yana
 
-Mid-level fullstack developer based in Cambridge, UK. I build production web applications end-to-end — from database design and REST APIs to React/Next.js frontends and containerised deployments.
+Fullstack developer based in Cambridge, UK. I build production web applications end-to-end — from database design and REST APIs to React/Next.js frontends and containerised deployments.
 
 Currently working at **Cambridge Logic**, shipping real systems for real clients.
 
